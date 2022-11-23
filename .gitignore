@@ -1,3 +1,27 @@
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
 # Compiled class file
 *.class
 
